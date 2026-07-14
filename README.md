@@ -1,6 +1,8 @@
 # Brain Tumor Segmentation using 3D U-Net (BraTS 2020)
 (The full thesis document (in Italian) is available in this repository as a PDF)
-This repository contains the code and experimental results for a brain tumor segmentation project based on the BraTS 2020 dataset. The project implements a 3D U-Net architecture to identify and segment distinct tumor sub-regions from MRI scans.
+This repository contains the code and experimental results for a brain tumor segmentation project based on the [BraTS 2020 dataset](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation). The project implements a 3D U-Net architecture to identify and segment distinct tumor sub-regions from MRI scans.
+
+
 
 ## Overview
 
